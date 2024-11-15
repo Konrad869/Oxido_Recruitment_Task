@@ -1,10 +1,11 @@
-(Witam przesyłam zadanie niestety nie udało mi się wygenrować kodu Html ani pliku Html problem polegał na tym że za każdym razem gdy wpisywałem  polecenie i nazwe pliku z Artykułem do generowania  kodu Html z kodu JavaScript wyświetlał się komunikat nr 401 i informacja że podany klucz jest nie prawidłowy.)
+(Hello I am submitting a task unfortunately I was not able to generate the Html code or the Html file the problem was that every time I typed in the command and the file name of the Article to generate the Html code from the JavaScript code a 401 message was displayed and the information that the key given was not valid).
 
-Sposób działania aplikacji  -
+The way the application works -
 
-1- Program Wczytuje plik tekstowy z artykułem.
-2- Konfiguracje OpenAI API.
-3- funkcja  generuje  kod HTML z tekstu artykułu.
-4- Zapisuje wygenerowany kod HTML do pliku.
-Sposób urochomienia aplikacji   - nie jestem w stanie podać 
+1- The application Loads the text file with the article.
+2- OpenAI API configurations.
+3- The function generates HTML code from the article text.
+4- Saves the generated HTML code to a file.
+The way the application is launched - I am not able to specify 
+
 
