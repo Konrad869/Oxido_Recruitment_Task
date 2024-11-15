@@ -4,7 +4,7 @@ Sposób działania aplikacji -
 
 1- Program Wczytuje plik tekstowy z artykułem.
 2- Konfiguracje OpenAI API.
-3- Następnie fnkcja generuje  kod HTML z tekstu artykułu.
+3- fnkcja generuje  kod HTML z tekstu artykułu.
 4- Zapisuje wygenerowany kod HTML do pliku.
 
 
