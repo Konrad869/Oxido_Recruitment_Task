@@ -2,6 +2,9 @@
 
 How the application works -.
 
-1- The application loads a text file with an article. 2- OpenAI API configuration. 3- The function generates HTML code based on the article text. 4- Saves the generated HTML code to a file. 
+1- The application loads a text file with an article.
+2- OpenAI API configuration. 
+3- The function generates HTML code based on the article text.
+4- Saves the generated HTML code to a file. 
 
 The way the application runs - I am unable to determine
