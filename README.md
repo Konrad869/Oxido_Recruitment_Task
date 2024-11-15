@@ -1,6 +1,6 @@
 (Witam przsyłam zadanie niestety nie udało mi się wygenrować kotu Html ani plku Html problem polegał na tym że za każdym razem gdy wpisywałem  polcenie i nazwe pliku z Artykułem do generowania  kodu Html z kodu JavaScript wyświetlał się komunikat nr 401 i informacja że podany klucz jest nie prawidłowy.)
 
-Sposób działania aplikacji -
+Sposób działania aplikacji  -
 
 1- Program Wczytuje plik tekstowy z artykułem.
 2- Konfiguracje OpenAI API.
