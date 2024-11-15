@@ -7,4 +7,4 @@ Sposób działania aplikacji -
 3- Następnie fnkcja generuje  kod HTML z tekstu artykułu.
 4- Zapisuje wygenerowany kod HTML do pliku.
 
-Sposobu urchumienia  nie jestem w stanie podać. 
+Sposobu urchumienia  nie jestem w stanie podać . 
